@@ -2,6 +2,8 @@ Live website: https://prebendal-scab.000webhostapp.com/
 -----------------------------------------------------------------------------
 Demonstration youtube video: https://www.youtube.com/watch?v=ysiNSrw8TXQ
 -----------------------------------------------------------------------------------
+Source code: https://github.com/Souvik380/Farmer_Project
+----------------------------------------------------------------------------------
 A one-stop website , where farmer can list their crops for sale and buyer can buy listed crops from a farmer. The web portal have two interfaces: 1)Farmer login 2)Buyer login
 
 A farmer has to register himself first and have to give his details that includes his contact detials and location details.
